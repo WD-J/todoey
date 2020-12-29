@@ -14,7 +14,3 @@ Demonstrating state management in Flutter. Highlighting Flutter architecture cho
 - Learn to lift state up to be able to access it from children widgets.
 - Learn about design patterns and why they are useful.
 - Understand how the Provider package works and use it to manage app state.
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp
